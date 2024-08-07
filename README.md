@@ -1,5 +1,6 @@
 # Computer-FPGA-Communication-with-UART
-Computer-FPGA Communication with UART on FPGA with VHDL
+
+I debugged on a ZedBoard, facilitating communication between a signal generator and a computer application using UART communication.I performed tasks such as writing, reading, and other operations to the correct addresses.
 
 
 
