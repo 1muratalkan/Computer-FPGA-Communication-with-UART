@@ -19,3 +19,7 @@ My codes are not shared due to company confidentiality. You can access the image
 
 5. Square Waveform  
 ![2](https://github.com/1muratalkan/Computer-FPGA-Communication-with-UART/blob/main/images/project_images/square.jpg)
+
+6. FMC Connection  
+![2](https://github.com/1muratalkan/Computer-FPGA-Communication-with-UART/blob/main/images/project_images/fmc_connection.jpeg)
+
