@@ -7,3 +7,15 @@ My codes are not shared due to company confidentiality. You can access the image
 
 1. Block Diagram   
 ![2](https://github.com/1muratalkan/Computer-FPGA-Communication-with-UART/blob/main/images/block_diagram/assignment.png)
+
+2. Aplication and Debugging
+![2](https://github.com/1muratalkan/Computer-FPGA-Communication-with-UART/blob/main/images/project_images/interface_and_debugging.png)
+
+3. Sinus Waveform  
+![2](https://github.com/1muratalkan/Computer-FPGA-Communication-with-UART/blob/main/images/project_images/sinus.jpg)
+
+4. Triangular Waveform  
+![2](https://github.com/1muratalkan/Computer-FPGA-Communication-with-UART/blob/main/images/project_images/triangular.jpg)
+
+5. Square Waveform  
+![2](https://github.com/1muratalkan/Computer-FPGA-Communication-with-UART/blob/main/images/project_images/square.jpg)
